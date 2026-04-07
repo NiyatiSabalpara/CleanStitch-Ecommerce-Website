@@ -1,0 +1,19 @@
+# Root dependencies
+node_modules/
+package-lock.json
+
+# Backend dependencies and environment
+backend/node_modules/
+backend/.env
+backend/*.log*
+backend/out.txt
+backend/out2.txt
+
+# Frontend dependencies and builds
+frontend/node_modules/
+frontend/build/
+frontend/package-lock.json
+
+# System files
+.DS_Store
+Thumbs.db
