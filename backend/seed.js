@@ -58,6 +58,30 @@ const seedProducts = [
         images: ["/images/img7.png"],
         category: "Co-ords",
         sizes: ["S", "M", "L", "XL"]
+    },
+    {
+        name: "Vintage Wash Wide-Leg Denim",
+        price: 2899,
+        description: "Relaxed wide-leg jeans with a vintage fade and high-rise waist for an effortlessly cool look.",
+        images: ["/images/img8.jpg"],
+        category: "Jeans",
+        sizes: ["S", "M", "L", "XL"]
+    },
+    {
+        name: "Beige Pleated Sleeveless Blouse",
+        price: 1299,
+        description: "Elegant sleeveless top featuring front pleats and a subtle keyhole neckline. Perfect for casual or dressy occasions.",
+        images: ["/images/img9.png"],
+        category: "Tops",
+        sizes: ["S", "M", "L", "XL"]
+    },
+    {
+        name: "Cream Boxy Cap-Sleeve Tee",
+        price: 899,
+        description: "A comfortable and stylish boxy t-shirt with cap sleeves, crafted from soft cotton in a versatile cream hue.",
+        images: ["/images/img10.png"],
+        category: "T-Shirts",
+        sizes: ["S", "M", "L", "XL"]
     }
 ];
 
